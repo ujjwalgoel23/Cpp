@@ -18,6 +18,7 @@ int main(){
     }
 
     if(flag==1) cout<<"array is  sorted ";
+
     else cout<<"array is not sorted ";
     return 0;
 }
