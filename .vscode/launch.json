@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/asus/OneDrive/Desktop/DSA_cpp/Cpp/Array",
-      "program": "c:/Users/asus/OneDrive/Desktop/DSA_cpp/Cpp/Array/build/Debug/outDebug",
+      "cwd": "c:/Users/asus/OneDrive/Desktop/DSA_cpp/Cpp/Tree",
+      "program": "c:/Users/asus/OneDrive/Desktop/DSA_cpp/Cpp/Tree/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

@@ -24,7 +24,6 @@ int peak_element(int arr[],int n){
   for(int i=0;i<n;i++)cin>>arr[i];
  int result=peak_element(arr,n);
  if(result==-1)cout<<"peak element is not found";
- else cout<<"peak element is "<<result;
-
+ else cout<<"peak element is : "<<result;
     return 0;
  }
